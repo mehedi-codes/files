@@ -1,24 +1,13 @@
-@import "tailwindcss";
-@import "tw-animate-css";
-@import "@fontsource-variable/inter";
-@import "@fontsource-variable/jetbrains-mono";
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import '@fontsource-variable/jetbrains-mono';
 
-:root {
-    --inter: "Inter Variable", "Inter", sans-serif;
-    --jetbrains-mono: "JetBrains Mono Variable", "JetBrains Mono", monospace;
-}
-
-@theme inline {
-    --font-sans: var(--inter);
-    --font-mono: var(--jetbrains-mono);
+@theme {
+  --font-sans: 'JetBrains Mono Variable', 'JetBrains Mono', ui-monospace, monospace;
 }
 
 @layer base {
-    * {
-        @apply scrollbar-thin scrollbar-track-transparent;
-    }
-
-    body {
-        font-family: var(--jetbrains-mono);
-    }
+  * {
+    @apply scrollbar-thin scrollbar-track-transparent font-sans;
+  }
 }
