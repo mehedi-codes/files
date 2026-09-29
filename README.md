@@ -1,4 +1,4 @@
-[![Socialify](https://socialify.git.ci/mehedi-codes/files/image?description=0&font=Raleway&language=0&owner=0&stargazers=0&theme=Dark)](https://github.com/mehedi-codes/files)
+[![Socialify](https://socialify.git.ci/mehedi-codes/files/image?description=1&font=JetBrains+Mono&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fmehedi-codes%2Ffiles%2Fmain%2Fpublic%2Ffavicon.svg&name=1&pattern=Solid&theme=Auto)](https://github.com/mehedi-codes/files)
 
 ## ✨ Features
 
