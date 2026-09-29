@@ -1,19 +1,4 @@
-[![Socialify](https://socialify.git.ci/mehedi-codes/files/image?description=1&descriptionEditable=A%20browser-based%20file%20manager%20with%20full%20CRUD%20operations&font=Raleway&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)](https://github.com/mehedi-codes/files)
-
-<div align="center">
-
-# 📁 Files
-
-A powerful browser-based file manager for seamless file and folder management right in your browser.
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-</div>
-
----
+[![Socialify](https://socialify.git.ci/mehedi-codes/files/image?description=0&font=Raleway&language=0&owner=0&stargazers=0&theme=Dark)](https://github.com/mehedi-codes/files)
 
 ## ✨ Features
 
@@ -31,7 +16,7 @@ A powerful browser-based file manager for seamless file and folder management ri
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- npm or yarn package manager
+- Bun package manager
 
 ### Installation
 
@@ -43,16 +28,12 @@ cd files
 
 2. **Install dependencies**
 ```bash
-npm install
-# or
-yarn install
+bun install
 ```
 
 3. **Start the development server**
 ```bash
-npm run dev
-# or
-yarn dev
+bun run dev
 ```
 
 4. **Open your browser**
@@ -60,9 +41,7 @@ Navigate to `http://localhost:5173` to start using the file manager.
 
 ### Build for Production
 ```bash
-npm run build
-# or
-yarn build
+bun run build
 ```
 
 ---
@@ -111,10 +90,10 @@ files/
 
 ### Development
 ```bash
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run linter
+bun run dev          # Start development server
+bun run build        # Build for production
+bun run preview      # Preview production build
+bun run lint         # Run linter
 ```
 
 ---
@@ -134,26 +113,3 @@ Contributions are welcome! To contribute:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Mehedi Codes**
-- GitHub: [@mehedi-codes](https://github.com/mehedi-codes)
-
----
-
-## 🙏 Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
-For issues and feature requests, please open an [issue](https://github.com/mehedi-codes/files/issues).
-
----
-
-<div align="center">
-
-Made with ❤️ by Mehedi Codes
-
-</div>
